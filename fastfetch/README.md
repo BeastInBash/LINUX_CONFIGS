@@ -1,4 +1,4 @@
-# Wallpapers Collection
+# Logo Collection
 ![ShowCase](./assets/show-1.png)
 ![Show](./assets/show.png)
 <p align="center">
