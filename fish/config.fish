@@ -98,6 +98,8 @@ alias vi="nvim"
 alias zen="flatpak run app.zen_browser.zen"
 alias k="kiro-cli"
 alias pgd="./pg-docker.sh"
+alias disconnect="adb disconnect"
+alias connect="adb connect 192.168.31.31:5555"
 
 # ============================================
 # ALIASES - FILE OPERATIONS
@@ -167,6 +169,15 @@ alias dcb="docker compose build"
 # ALIASES - NETWORK
 # ============================================
 alias ispeed="speedtest-cli"
+
+# ============================================
+# ALIASES - React-Native 
+# ============================================
+alias bca="bunx create-expo-app@latest"
+alias bei="bunx expo install"
+# using npm 
+alias nca="npx create-expo-app@latest"
+alias nei="npx expo install"
 
 # ============================================
 # ALIASES - PACKAGE MANAGERS
